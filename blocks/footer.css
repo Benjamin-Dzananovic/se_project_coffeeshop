@@ -23,7 +23,7 @@
 }
 .footer__social-heading {
   color: white;
-  font-family: "Inter", Arial, Sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
@@ -40,7 +40,7 @@
   color: white;
   text-decoration: none;
 }
-.footer__social-link:hoover {
+.footer__social-link:hover {
   color: #c1c1c1;
   transition: 0.4s ease-in-out;
 }
@@ -54,7 +54,7 @@
   padding-bottom: 60px;
   padding-left: 80px;
   color: white;
-  font-family: "Inter", Arial, Sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
