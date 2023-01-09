@@ -13,4 +13,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I enjoyed the project a lot, it was good to see everything we could do ourselves. I had to use an extension as the holidays got really busy but overall I would say it was very enjoyful!
