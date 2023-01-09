@@ -8,6 +8,8 @@
   background-image: url(../images/background_header.svg);
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: center;
+  -webkit-box-sizing: border-box;
 }
 .header__title {
   margin: 0;
@@ -56,7 +58,7 @@
 .header__span-accent {
   font-style: italic;
   color: #2f80ed;
-  font-family: "Noto Serif", Times New Roman, serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-weight: normal;
   font-size: 60px;
   line-height: 72px;
