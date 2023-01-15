@@ -11,19 +11,6 @@
   background-position: center;
   -webkit-box-sizing: border-box;
 }
-.header__nav-bar {
-  -webkit-box-align: start;
-  -ms-flex-align: start;
-  align-items: flex-start;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  margin: 0;
-  padding: 0;
-}
 .header__title {
   margin: 0 0 0 80px;
   padding-top: 80px;

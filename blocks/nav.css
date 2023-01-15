@@ -7,6 +7,14 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 20px;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+  margin: 0;
+  padding: 0;
 }
 .nav__links {
   display: flex;
