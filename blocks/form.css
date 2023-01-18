@@ -23,6 +23,9 @@
   box-sizing: border-box;
   height: 60px;
   font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
 }
 .form__input::placeholder {
   font-family: "Inter", Arial, sans-serif;
